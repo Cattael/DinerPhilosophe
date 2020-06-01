@@ -1,0 +1,13 @@
+F:\Visual Studio\WSThread\WS Thread\WS Thread\bin\Debug\netcoreapp3.1\WS Thread.exe
+F:\Visual Studio\WSThread\WS Thread\WS Thread\bin\Debug\netcoreapp3.1\WS Thread.deps.json
+F:\Visual Studio\WSThread\WS Thread\WS Thread\bin\Debug\netcoreapp3.1\WS Thread.runtimeconfig.json
+F:\Visual Studio\WSThread\WS Thread\WS Thread\bin\Debug\netcoreapp3.1\WS Thread.runtimeconfig.dev.json
+F:\Visual Studio\WSThread\WS Thread\WS Thread\bin\Debug\netcoreapp3.1\WS Thread.dll
+F:\Visual Studio\WSThread\WS Thread\WS Thread\bin\Debug\netcoreapp3.1\WS Thread.pdb
+F:\Visual Studio\WSThread\WS Thread\WS Thread\obj\Debug\netcoreapp3.1\WS Thread.csprojAssemblyReference.cache
+F:\Visual Studio\WSThread\WS Thread\WS Thread\obj\Debug\netcoreapp3.1\WS Thread.csproj.CoreCompileInputs.cache
+F:\Visual Studio\WSThread\WS Thread\WS Thread\obj\Debug\netcoreapp3.1\WS Thread.AssemblyInfoInputs.cache
+F:\Visual Studio\WSThread\WS Thread\WS Thread\obj\Debug\netcoreapp3.1\WS Thread.AssemblyInfo.cs
+F:\Visual Studio\WSThread\WS Thread\WS Thread\obj\Debug\netcoreapp3.1\WS Thread.dll
+F:\Visual Studio\WSThread\WS Thread\WS Thread\obj\Debug\netcoreapp3.1\WS Thread.pdb
+F:\Visual Studio\WSThread\WS Thread\WS Thread\obj\Debug\netcoreapp3.1\WS Thread.genruntimeconfig.cache
